@@ -2,9 +2,10 @@
 
 # Installation
 ### Gcloud - FREE TIER for lifetime
-
+- To Install [Gcloud Bitnami Wordpress](https://github.com/katmakhan/gcloud-course/tree/master/Free%20Wordpress-%20Bitnami)
 ---
 ### AWS- FREE TIER for 1 Year
+- To Install [Aws Bitnami Wordpress](https://github.com/katmakhan/aws-course)
 
 ---
 ### Godaddy or Hostinger Plans - AMC
