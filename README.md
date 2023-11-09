@@ -41,4 +41,4 @@ It comes with lot of plugins
 - Use `Godaddy` or `Hostinger` premium plans for `more than 5 Users`
 
 ### To find which plugins are used inside the website
-To look for a plugin directory, simply use the right-click anywhere on the website (except on an image) you are curious about, and then select the 'View Page Source' option from the drop-down menu that opens. All that is left for you to do now is to scan the code and look for 'wp-content/plugins/' in it.
+- To look for a plugin directory, simply use the right-click anywhere on the website (except on an image) you are curious about, and then select the `View Page Source` option from the drop-down menu that opens. All that is left for you to do now is to scan the code and look for `wp-content/plugins/` in it.
