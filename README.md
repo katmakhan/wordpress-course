@@ -33,11 +33,13 @@ It comes with lot of plugins
 - Use `Google analytics` for `Traffic Analaysis`
 
 ### Hosting Website
-- Use `Gcloud` for `FREE HOSTING`
+- Use `Gcloud` for `FREE HOSTING` with only 1GB RAM System, about Rs.2-3 per month
+- Use `ORACLE` for abosultely `FREE HOSTING` , with 2X 12GB RAM systems, with each able to hold 10-12 sites per CPU.
 - Use `Hostinger` or `Godaddy` for starting your career
 
 ### Email Hosting
 - Use `zoho` for `FREE EMAIL HOSTING` for upto `5 users`
+- Use `Cloudflare` for `FREE EMAIL FORWARDING`, also `DDOS` Protection.
 - Use `Godaddy` or `Hostinger` premium plans for `more than 5 Users`
 
 ### To find which plugins are used inside the website
